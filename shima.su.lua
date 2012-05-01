@@ -4,4 +4,4 @@
 
 -- cname("www", _a)
 
-google_apps(_a)
+google_app(_a)
