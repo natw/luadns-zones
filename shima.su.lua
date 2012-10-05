@@ -9,4 +9,4 @@ cname("www", _a)
 
 google_app(_a)
 
-cname("chicagofoodtrucks", "204.232.175.78")
+cname("chicagofoodtrucks", _a)
