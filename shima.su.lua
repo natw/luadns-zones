@@ -8,3 +8,5 @@ a(_a, "204.232.175.78")
 cname("www", _a)
 
 google_app(_a)
+
+cname("chicagofoodtrucks", "204.232.175.78")
