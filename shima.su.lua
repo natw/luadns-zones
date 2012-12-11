@@ -10,4 +10,4 @@ cname("www", _a)
 google_app(_a)
 
 cname("chicagofoodtrucks", _a)
-cname("markov", _a)
+cname("markov", "peaceful-reaches-5166.herokuapp.com")
