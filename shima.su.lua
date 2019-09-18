@@ -4,8 +4,7 @@
 
 -- cname("www", _a)
 
-a(_a, "192.30.252.153")
-a(_a, "192.30.252.154")
+alias(_a, "natw.github.io")
 cname("www", _a)
 
 google_app(_a)
